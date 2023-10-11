@@ -3,6 +3,7 @@ collections:
   authors:
     output: true
 
+baseurl: "jekylltest"
 
 defaults:
   - scope:
