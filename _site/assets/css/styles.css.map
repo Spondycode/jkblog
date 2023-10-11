@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AAGA;EACE,OAHK;EAIL,YALG;;;AAQL;EACE;EACA;;;AAIF;EACE","sourcesContent":["$bg: #333;\n$text: #fff;\n\nbody{\n  color: $text;\n  background: $bg;\n}\n\n.container{\n  width: 600px;\n  margin: 0 auto;\n}\n\n\n.current {\n  color: yellow;\n}\n"],"file":"styles.css"}

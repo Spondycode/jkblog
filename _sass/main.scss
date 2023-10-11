@@ -1,0 +1,17 @@
+$bg: #333;
+$text: #fff;
+
+body{
+  color: $text;
+  background: $bg;
+}
+
+.container{
+  width: 600px;
+  margin: 0 auto;
+}
+
+
+.current {
+  color: yellow;
+}
