@@ -3,7 +3,9 @@ collections:
   authors:
     output: true
 
-baseurl: "jk-blog/"
+# basewebsite: https://spondycode.github.io
+# baseurl: ""
+# permalink: date
 
 defaults:
   - scope:
