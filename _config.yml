@@ -4,7 +4,7 @@ collections:
     output: true
 
 # basewebsite: https://spondycode.github.io
-# baseurl: ""
+baseurl: "https://spondycode.github.io/jkblog/"
 # permalink: date
 
 defaults:
