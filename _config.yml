@@ -3,7 +3,7 @@ collections:
   authors:
     output: true
 
-baseurl: "jk-blog"
+baseurl: "jk-blog/"
 
 defaults:
   - scope:
